@@ -1,6 +1,7 @@
 # My First Repo 🚀
 This repository marks the beginning of
 my GitHub and programming journey.
+<br>
 Welcome to my first GitHub repository!
 
 This repository is created to learn and practice GitHub basics such as:
